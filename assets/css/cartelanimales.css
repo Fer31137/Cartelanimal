@@ -1,0 +1,27 @@
+body{background-color: rgb(124, 103, 103);}
+
+.animal{text-align: center;font-size: 70;font-family: Verdana, Geneva, Tahoma, sans-serif ;color: crimson;}
+
+.animal2{text-align: center;font-size: 30;font-family: Verdana, Geneva, Tahoma, sans-serif ;color: rgb(228, 5, 5);}
+
+.texto1{text-align: center;font-size: 30;font-family: Verdana, Geneva, Tahoma, sans-serif ;color: rgb(0, 0, 0);}
+.texto2{text-align: center;font-size: 30;font-family: Verdana, Geneva, Tahoma, sans-serif ;color: rgb(0, 0, 0);}
+
+.animal1{text-align: center;font-size: 50;font-family: cursive;color: goldenrod;}
+
+.centrar{text-align: center;}
+.centrar1{text-align: center ;}
+
+.prese{padding: 5px;border: 9px solid rgb(7, 7, 7);margin: 50px;text-align: center;display: inline-block;align-items: center;}
+
+.foto1{padding: 5px;border: 7px solid rgb(245, 9, 9);margin: 30px;
+    display:inline-block;}
+    
+.foto2{padding: 5px;border: 7px solid rgb(0, 0, 0);margin:30px;text-align: center;display: inline-block;}
+    
+.foto4{padding: 5px;border: 7px solid red;margin:30px;text-align: center;display: inline-block;}
+
+#masinfo{background-color: rgb(54, 44, 194);color: rgb(10, 10, 10);border: 0px;border-radius: 5px;padding: 5px;font-size: 20;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+#masfotos{background-color: rgb(236, 57, 12);color: rgb(12, 12, 12);border: 0px;border-radius: 5px;padding: 5px;font-size: 20;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
